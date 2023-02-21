@@ -1,0 +1,1 @@
+{"result":{"text":"f left parenthesis x right parenthesis space equals space 2 sin left parenthesis 2 x space minus space 3 right parenthesis space plus space 1"},"status":"ok"}

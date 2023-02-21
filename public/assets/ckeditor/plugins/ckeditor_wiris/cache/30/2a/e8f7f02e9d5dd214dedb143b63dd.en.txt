@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 14px style y space equals space fraction numerator 2 x space plus space 3 over denominator x space plus thin space 1 end fraction end style"},"status":"ok"}

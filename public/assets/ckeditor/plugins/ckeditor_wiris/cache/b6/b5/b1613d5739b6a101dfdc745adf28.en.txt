@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 14px style a to the power of 3 over 4 end exponent space greater than space a to the power of 4 over 5 end exponent comma space log subscript b 1 half space less than space log subscript b 2 over 3 end style"},"status":"ok"}

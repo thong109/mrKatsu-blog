@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 14px style I space equals space integral subscript a superscript b open square brackets 3 f left parenthesis x right parenthesis space minus space 5 g left parenthesis x right parenthesis close square brackets d x end style"},"status":"ok"}

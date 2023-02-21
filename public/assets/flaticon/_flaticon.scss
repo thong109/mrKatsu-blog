@@ -1,0 +1,94 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 24/07/2020 10:55
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-dumbbell:before { content: "\f100"; }
+.flaticon-excersice:before { content: "\f101"; }
+.flaticon-water-bottle:before { content: "\f102"; }
+.flaticon-gym:before { content: "\f103"; }
+.flaticon-exercise:before { content: "\f104"; }
+.flaticon-kettlebell:before { content: "\f105"; }
+.flaticon-stationary-bike:before { content: "\f106"; }
+.flaticon-woman:before { content: "\f107"; }
+.flaticon-sport:before { content: "\f108"; }
+.flaticon-exercise-1:before { content: "\f109"; }
+.flaticon-weightlifting-1:before { content: "\f10a"; }
+.flaticon-runner:before { content: "\f10b"; }
+.flaticon-exercise-2:before { content: "\f10c"; }
+.flaticon-diet:before { content: "\f10d"; }
+.flaticon-weight-lifting:before { content: "\f10e"; }
+.flaticon-workout-machine:before { content: "\f10f"; }
+.flaticon-dumbbell-1:before { content: "\f110"; }
+.flaticon-workout:before { content: "\f111"; }
+.flaticon-cardio:before { content: "\f112"; }
+.flaticon-lunges:before { content: "\f113"; }
+.flaticon-boxing-gloves:before { content: "\f114"; }
+.flaticon-meditation:before { content: "\f115"; }
+.flaticon-yoga:before { content: "\f116"; }
+.flaticon-strength:before { content: "\f117"; }
+.flaticon-dumbbell-2:before { content: "\f118"; }
+.flaticon-fitness:before { content: "\f119"; }
+.flaticon-weightlifting:before { content: "\f11a"; }
+    
+    $font-Flaticon-dumbbell: "\f100";
+    $font-Flaticon-excersice: "\f101";
+    $font-Flaticon-water-bottle: "\f102";
+    $font-Flaticon-gym: "\f103";
+    $font-Flaticon-exercise: "\f104";
+    $font-Flaticon-kettlebell: "\f105";
+    $font-Flaticon-stationary-bike: "\f106";
+    $font-Flaticon-woman: "\f107";
+    $font-Flaticon-sport: "\f108";
+    $font-Flaticon-exercise-1: "\f109";
+    $font-Flaticon-weightlifting-1: "\f10a";
+    $font-Flaticon-runner: "\f10b";
+    $font-Flaticon-exercise-2: "\f10c";
+    $font-Flaticon-diet: "\f10d";
+    $font-Flaticon-weight-lifting: "\f10e";
+    $font-Flaticon-workout-machine: "\f10f";
+    $font-Flaticon-dumbbell-1: "\f110";
+    $font-Flaticon-workout: "\f111";
+    $font-Flaticon-cardio: "\f112";
+    $font-Flaticon-lunges: "\f113";
+    $font-Flaticon-boxing-gloves: "\f114";
+    $font-Flaticon-meditation: "\f115";
+    $font-Flaticon-yoga: "\f116";
+    $font-Flaticon-strength: "\f117";
+    $font-Flaticon-dumbbell-2: "\f118";
+    $font-Flaticon-fitness: "\f119";
+    $font-Flaticon-weightlifting: "\f11a";

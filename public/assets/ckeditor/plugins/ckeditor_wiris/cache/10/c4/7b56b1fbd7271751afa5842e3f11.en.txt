@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 14px style open vertical bar z close vertical bar space equals space 13 end style"},"status":"ok"}

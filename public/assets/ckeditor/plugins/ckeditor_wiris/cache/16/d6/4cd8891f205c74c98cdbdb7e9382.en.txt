@@ -1,0 +1,1 @@
+{"result":{"text":"element of greater or equal than 1 half"},"status":"ok"}

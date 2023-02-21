@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 14px style F left parenthesis x right parenthesis space equals space x space plus thin space cos left parenthesis 2 x space minus space 3 right parenthesis space plus space 10 end style"},"status":"ok"}
